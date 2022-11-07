@@ -15,12 +15,12 @@ function Footer() {
 
         <hr style={{ width: '18%', borderColor: 'red' }} />
       </div>
-      <div className='social-media'>
+      {/* <div className='social-media'>
         <a href="https://www.github.com/richardshaju"><i className="fab fa-github"></i></a>
         <a href="https://www.linkedin.com/in/richard-shaju-a5902b244"><i className="fab fa-linkedin"></i></a>
         <a href="https://twitter.com/richard_shaju?t=MAsXlb2cJD80mLmmEyUzdw&s=09"><i className="fab fa-twitter"></i></a>
         <a href="https://www.instagram.com/richard_kuttikkadan"><i className="fab fa-instagram"></i></a>
-      </div>
+      </div> */}
       <div className='copyright'>
        
         <p>All Right Reserved | Copyright © {yyyy} Bifin Babu</p>

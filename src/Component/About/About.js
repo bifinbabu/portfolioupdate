@@ -7,7 +7,7 @@ function About() {
       <div className='content' >
         <p>I'm a Self-Taught  <span style={{ color: 'red' }}>MERN Stack Developer</span> from Cochin , highly self-motivated and passionate about learning new things. Moreover, I'm a Mechanical Engineering graduate from CUSAT. <br />
           <br /> I worked as an HVAC Engineer for two years. Eventhough I'm a Mechanical Engineer I always had an interest in Coding and building Applications <br />
-          <br id='service'/>In 2022 I took the major decision of changing my career path to Coding. In 2022 I started learning<b> C, Java</b> basics and moved on to master my skills in<b> HTML, CSS, Javascript, NodeJs, React and MongoDb.</b> I'm also experienced in hosting web applications to <b>AWS, Digital Ocean and Heroku</b></p>
+          <br id='service'/>In 2022 I took the major decision of changing my career path to Coding. In 2022 I started learning<b> C, Java</b> basics and moved on to master my skills in<b> HTML, CSS, Javascript, NodeJs, React and MongoDB.</b> I'm also experienced in hosting web applications to <b>AWS, Digital Ocean and Heroku</b></p>
       </div>
       <div className='tools'>
         <h1 className='lang' style={{ paddingLeft: '38rem', fontSize: '2rem' }}>Languages and Tools</h1>
